@@ -32,7 +32,7 @@
     "grunt-jscs": "~1.5.0",
     "grunt-karma": "~0.10.1",
     "grunt-lodash": "~0.5.0",
-    "lodash-cli": "~3.10.1",
+    "lodash-cli": "~4.0.1",
     "grunt-ngmin": "~0.0.3",
     "jasmine-core": "~2.2.0",
     "karma": "~0.12.16",
